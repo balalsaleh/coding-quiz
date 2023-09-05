@@ -6,14 +6,14 @@ You can navigate through the challenge and answer questions, based on web develo
 
 ##### Qestion 1 example
 
-![quiz-question1](../images/question1.png)
+![quiz-question1](./assets/images/question1.png)
 
 ##### Name enetering example
 
-![name-entering](../images/name.png)
+![name-entering](./assets/images/name.png)
 
 ##### High Scores example
 
-![high-score](../images/namesHighscores.png)
+![high-score](./assets/images/namesHighscores.png)
 
-Deployed Link:
+Deployed Link: https://balalsaleh.github.io/coding-quiz/
