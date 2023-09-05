@@ -2,7 +2,7 @@
 
 You can navigate through the challenge and answer questions, based on web development and coding! This quiz has a highscore function which you can add to and clear!
 
-##Images
+## Images
 
 ##### Qestion 1 example
 
