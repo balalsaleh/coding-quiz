@@ -12,8 +12,8 @@ let startButton = document.getElementById("start");
 let initialElement = document.getElementById("initials");
 let feedbackElement = document.getElementById ("feedback");
 
-let sfxCorrect = new Audio("../assets/sfx/correct.wav");
-let sfxWrong = new Audio("../assets/sfx/incorrect.wav");
+let sfxCorrect = new Audio("./assets/sfx/correct.wav");
+let sfxWrong = new Audio("./assets/sfx/incorrect.wav");
 
 function questionClick() {
     if (this.value !== questions[currentQuestionIndex].answer) {

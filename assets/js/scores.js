@@ -16,7 +16,7 @@ function printHighScore() {
 
 function clearHighScores(){
     localStorage.removeItem("highscores");
-    window.localtion.reload();
+    window.location.reload();
 }
 
 let clearButton = document.getElementById("clear");
